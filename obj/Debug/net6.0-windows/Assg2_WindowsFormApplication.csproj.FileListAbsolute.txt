@@ -4,7 +4,6 @@ D:\Code Projects\Assg2_WindowsFormApplication\bin\Debug\net6.0-windows\Assg2_Win
 D:\Code Projects\Assg2_WindowsFormApplication\bin\Debug\net6.0-windows\Assg2_WindowsFormApplication.dll
 D:\Code Projects\Assg2_WindowsFormApplication\bin\Debug\net6.0-windows\Assg2_WindowsFormApplication.pdb
 D:\Code Projects\Assg2_WindowsFormApplication\obj\Debug\net6.0-windows\Assg2_WindowsFormApplication.csproj.AssemblyReference.cache
-D:\Code Projects\Assg2_WindowsFormApplication\obj\Debug\net6.0-windows\Assg2_WindowsFormApplication.Form1.resources
 D:\Code Projects\Assg2_WindowsFormApplication\obj\Debug\net6.0-windows\Assg2_WindowsFormApplication.csproj.GenerateResource.cache
 D:\Code Projects\Assg2_WindowsFormApplication\obj\Debug\net6.0-windows\Assg2_WindowsFormApplication.GeneratedMSBuildEditorConfig.editorconfig
 D:\Code Projects\Assg2_WindowsFormApplication\obj\Debug\net6.0-windows\Assg2_WindowsFormApplication.AssemblyInfoInputs.cache
@@ -15,3 +14,4 @@ D:\Code Projects\Assg2_WindowsFormApplication\obj\Debug\net6.0-windows\refint\As
 D:\Code Projects\Assg2_WindowsFormApplication\obj\Debug\net6.0-windows\Assg2_WindowsFormApplication.pdb
 D:\Code Projects\Assg2_WindowsFormApplication\obj\Debug\net6.0-windows\Assg2_WindowsFormApplication.genruntimeconfig.cache
 D:\Code Projects\Assg2_WindowsFormApplication\obj\Debug\net6.0-windows\ref\Assg2_WindowsFormApplication.dll
+D:\Code Projects\Assg2_WindowsFormApplication\obj\Debug\net6.0-windows\Assg2_WindowsFormApplication.LoginWindow.resources
