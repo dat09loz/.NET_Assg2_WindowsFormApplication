@@ -25,7 +25,7 @@ namespace Assg2_WindowsFormApplication
                 {
                     success = true;
                     // Hide();
-                    MessageBox.Show("Login successful!", "Status", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    MessageBox.Show("Login successful!", "Success", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 }
             }
             //login failed
@@ -41,7 +41,7 @@ namespace Assg2_WindowsFormApplication
         private void NewUserBtn_Click(object sender, EventArgs e)
         {
             Hide();
-            //create account windows appears...
+            new NewUserWindow(this).Show();// pass this session in to be called later
         }
     }
 }
