@@ -14,3 +14,4 @@ royy1,rRRRR,View,Romero,Roland,07-11-1982
 Suchi,subdotCom,Edit,subway,HJ,21-12-1988
 jimy1,asdasd,View,Jim,MacDonald,14-09-1970
 test,test,View,fname,lname,05-01-2022
+test2,test2,Edit,fname2,lname2,05-10-2022
