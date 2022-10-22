@@ -16,3 +16,5 @@ D:\Code Projects\Assg2_WindowsFormApplication\obj\Debug\net6.0-windows\Assg2_Win
 D:\Code Projects\Assg2_WindowsFormApplication\obj\Debug\net6.0-windows\ref\Assg2_WindowsFormApplication.dll
 D:\Code Projects\Assg2_WindowsFormApplication\obj\Debug\net6.0-windows\Assg2_WindowsFormApplication.LoginWindow.resources
 D:\Code Projects\Assg2_WindowsFormApplication\obj\Debug\net6.0-windows\Assg2_WindowsFormApplication.NewUserWindow.resources
+D:\Code Projects\Assg2_WindowsFormApplication\obj\Debug\net6.0-windows\Assg2_WindowsFormApplication.TextEditorWindow.resources
+D:\Code Projects\Assg2_WindowsFormApplication\obj\Debug\net6.0-windows\Assg2_WindowsFormApplication.Properties.Resources.resources

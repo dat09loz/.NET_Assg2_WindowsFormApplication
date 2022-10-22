@@ -24,8 +24,11 @@ namespace Assg2_WindowsFormApplication
                 if (UsernameTextBox.Text == userInfo[0] && PasswordTextBox.Text == userInfo[1]) //correct username and password?
                 {
                     success = true;
-                    // Hide();
-                    MessageBox.Show("Login successful!", "Success", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    Hide();
+                    //username, password, usertype, firstname, lastname, DOB
+                    string name = $"{userInfo[3]} {userInfo[4]}";
+                    new TextEditorWindow(this, name, userInfo[2]).Show();
+                    break;
                 }
             }
             //login failed
